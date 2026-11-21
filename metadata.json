@@ -1,0 +1,5 @@
+{
+  "name": "realite-virtuelle",
+  "description": "Interactive scroll-scrubbed 193-frame disassembly explorer and video showcase for the VR Headset Explosion sequence.",
+  "requestFramePermissions": []
+}
